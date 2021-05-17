@@ -4,6 +4,7 @@
     "layer0:dev": "layer0 dev",
     "layer0:build": "layer0 build",
     "layer0:deploy": "layer0 deploy layer0-docs",
+    "deploy": "layer0 deploy",
     "build": "ember build",
     "build:prod": "ember build --environment=production && layer0 build",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
