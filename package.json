@@ -40,7 +40,7 @@
     "@layer0/cli": "^3.6.0",
     "@layer0/core": "^3.6.0",
     "@layer0/devtools": "^3.6.0",
-    "@layer0/prefetch": "^3.6.0",
+    "@layer0/prefetch": "^3.17.8",
     "babel-eslint": "^10.1.0",
     "broccoli-asset-rev": "^3.0.0",
     "chai": "^4.2.0",
