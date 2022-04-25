@@ -27,7 +27,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "@layer0/fastboot": "^3.6.0",
+    "@layer0/fastboot": "^4.2.2",
     "ember-fetch": "^8.0.1",
     "fastboot": "^3.1.2",
     "fastboot-express-middleware": "^3.1.0",
