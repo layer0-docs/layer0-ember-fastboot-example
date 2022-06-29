@@ -38,7 +38,7 @@
     "@glimmer/component": "^1.0.0",
     "@glimmer/tracking": "^1.0.0",
     "@layer0/cli": "^4.13.9",
-    "@layer0/core": "^4.13.9",
+    "@layer0/core": "^4.15.2",
     "@layer0/devtools": "^4.13.9",
     "@layer0/prefetch": "^4.13.9",
     "babel-eslint": "^10.1.0",
